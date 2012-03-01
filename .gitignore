@@ -1,0 +1,5 @@
+sub.*.sh
+*.txt
+*.dat
+*.gnu
+scene*/
